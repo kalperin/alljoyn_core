@@ -1,7 +1,5 @@
 TAGS
 LinuxTAGS
-build
-*build
 .sconsign.dblite
 *.pdb
 .*.swp
